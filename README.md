@@ -1,1 +1,1 @@
-dans ce repo nous nous familiarisons aevc la création d'une image docker avec persistence de données 
+Dans ce repo nous nous nous exerçons à créer une image docker avec persistence des données. Bien vouloir suivre l'exple et vous exercer également 
